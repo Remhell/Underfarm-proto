@@ -1,5 +1,10 @@
 import { useState } from 'react'
 import './App.css'
+import Helpers from './pages/Helpers';
+import { BrowserRouter } from 'react-router-dom';
+import React from 'react';
+import reactDOM from 'react-dom/client';
+
 let vacio = '';
 
 function App() {
