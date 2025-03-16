@@ -1,0 +1,7 @@
+.navlogo {
+    width: 250px;
+    height: 60px;
+    background-image: url("../assets/logo-big.png");
+    background-size: cover;
+    background-position: center;
+}
