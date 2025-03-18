@@ -5,12 +5,14 @@ import React from "react";
 import reactDOM from "react-dom/client";
 import Navbar from "./components/Navbar.jsx";
 import Hero from "./components/Hero.jsx";
+import Carousel from "./components/Carousel.jsx";
 
 function App() {
   return (
     <>
       <Navbar />
       <Hero />
+      <Carousel />
     </>
   );
 }
